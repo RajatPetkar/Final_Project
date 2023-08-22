@@ -1,6 +1,6 @@
 import React from 'react'
 import Footer from './Footer/Footer';
-import ImageSliders from './ImageSliders/ImageSliders';
+import ImageSliders from './ImageSliders';
 import Header from './Header/Header';
 import Middle from './Middle';
 
