@@ -1,5 +1,6 @@
 import React from 'react'
 import sliderImages from './sliderImages'
+import ImageSlider from 'react-simple-image-slider';
 import SimpleImageSlider from "react-simple-image-slider";
 
 const ImageSliders = () => {
